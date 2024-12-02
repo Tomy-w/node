@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "28aaee05633938bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "6307bc517c7d14de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "566ebe82cc372665",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6a21153ff692a15",
+    "type": "split",
+    "children": [
+      {
+        "id": "107f086b9eefb8cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c40d97ac7c551fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1a65d1bab30f207d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "7a47e3c245e3715b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "73a7464cfc15f441",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddbecc09de820c10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8a0c6fb86f9b563",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "应用功能方案(总)/0.应用功能方案总目录.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "0.应用功能方案总目录 的反向链接列表"
+            }
+          },
+          {
+            "id": "cc5022eb9c04d1dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "应用功能方案(总)/0.应用功能方案总目录.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "0.应用功能方案总目录 的出链列表"
+            }
+          },
+          {
+            "id": "dfc33f28578c9f40",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "fdc60a55c48fa679",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "应用功能方案(总)/0.应用功能方案总目录.md"
+              },
+              "icon": "lucide-list",
+              "title": "0.应用功能方案总目录 的大纲"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "566ebe82cc372665",
+  "lastOpenFiles": [
+    "应用功能方案(总)/5.网页懒加载场景和解决方案.md",
+    "SOP.md",
+    "应用功能方案(总)/0.应用功能方案总目录.md",
+    "如何与客户沟通.md",
+    "开发中出现的问题.md",
+    "明日计划.md",
+    "OKR.md",
+    "未命名",
+    "欢迎.md",
+    "未命名.canvas",
+    "应用功能方案(总)"
+  ]
+}
