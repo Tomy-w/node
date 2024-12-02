@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOP.md",
+                "file": "OKR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOP"
+              "title": "OKR"
             }
           }
         ],
@@ -164,10 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOP.md"
+                "file": "OKR.md"
               },
               "icon": "lucide-list",
-              "title": "SOP 的大纲"
+              "title": "OKR 的大纲"
             }
           },
           {
@@ -185,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 583.5
+    "width": 482.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,18 +198,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df22c6c1814bcf3d",
+  "active": "ac6de577f6bd54cd",
   "lastOpenFiles": [
-    "test2.md",
     "SOP.md",
-    "test.md",
     "OKR.md",
-    "明日计划.md",
     "如何与客户沟通.md",
+    "明日计划.md",
+    "开发中出现的问题.md",
     "应用功能方案(总)/0.应用功能方案总目录.md",
     "应用功能方案(总)/5.网页懒加载场景和解决方案.md",
+    "OKR.md~",
+    "test2.md",
+    "test.md",
     "未命名",
-    "开发中出现的问题.md",
     "欢迎.md",
     "未命名.canvas",
     "应用功能方案(总)"
