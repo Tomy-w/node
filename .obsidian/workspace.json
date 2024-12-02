@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6307bc517c7d14de",
+        "id": "6ff65111f4da6193",
         "type": "tabs",
         "children": [
           {
-            "id": "566ebe82cc372665",
+            "id": "b30dde4246413457",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "明日计划.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "明日计划"
             }
           }
         ]
@@ -130,24 +134,43 @@
             }
           },
           {
+            "id": "6e5903bab38e8dc2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
             "id": "fdc60a55c48fa679",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "应用功能方案(总)/0.应用功能方案总目录.md"
+                "file": "明日计划.md"
               },
               "icon": "lucide-list",
-              "title": "0.应用功能方案总目录 的大纲"
+              "title": "明日计划 的大纲"
+            }
+          },
+          {
+            "id": "df22c6c1814bcf3d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 583.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,16 +183,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "566ebe82cc372665",
+  "active": "b30dde4246413457",
   "lastOpenFiles": [
-    "应用功能方案(总)/5.网页懒加载场景和解决方案.md",
-    "SOP.md",
-    "应用功能方案(总)/0.应用功能方案总目录.md",
     "如何与客户沟通.md",
+    "应用功能方案(总)/0.应用功能方案总目录.md",
+    "应用功能方案(总)/5.网页懒加载场景和解决方案.md",
+    "OKR.md",
+    "未命名.md",
+    "未命名",
+    "SOP.md",
     "开发中出现的问题.md",
     "明日计划.md",
-    "OKR.md",
-    "未命名",
     "欢迎.md",
     "未命名.canvas",
     "应用功能方案(总)"
